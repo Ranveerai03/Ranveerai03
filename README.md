@@ -4,7 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer 
 -----------------  
 
-I love code!!  
+I am a skilled and motivated software engineer with a passion for developing innovative solutions.
+
+My expertise lies in Python, Java, and C++, and I thrive by working in teams and communicating effectively.
+
+My projects, include an ongoing full-stack NHL stat website,  a Local AI bot, a web-application, and etc, highlight my proficiency in Python, React, Java, and database management.
+
+With a strong foundation in computer science from The British Columbia Institute of Technology , I am dedicated to continuous
+learning and driving technological advancements.
+
+----------------- 
+
 
 * 🌍  I'm based in Vancouver, BC
 * 🖥️  See my portfolio at [My website](http://github.com)
