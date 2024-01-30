@@ -4,20 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer 
 -----------------  
 
-I am a skilled and motivated software engineer with a passion for developing innovative solutions.
+I am a skilled and motivated software engineer passionate about developing innovative solutions.
 
 My expertise lies in Python, Java, and C++, and I thrive by working in teams and communicating effectively.
 
-My projects, include an ongoing full-stack NHL stat website,  a Local AI bot, a web-application, and etc, highlight my proficiency in Python, React, Java, and database management.
+My projects include an ongoing full-stack NHL stat website, a Local AI bot, and a web application, highlighting my proficiency in Python, React, Java, and database management.
 
-With a strong foundation in computer science from The British Columbia Institute of Technology , I am dedicated to continuous
+With a strong foundation in computer science from The British Columbia Institute of Technology, I am dedicated to continuous
 learning and driving technological advancements.
 
 ----------------- 
 
 
 * 🌍  I'm based in Vancouver, BC
-* 🖥️  See my portfolio at [My website]([http://github.com](https://ranveer-rai.netlify.app/))
+* 🖥️  See my portfolio at [My website]([(https://ranveer-rai.netlify.app/)])
 * ✉️  You can contact me at [ranveerrai@yahoo.com](mailto:ranveerrai@yahoo.com)
 * 🚀  I'm currently working on [NHL Fantasy Zone](http://gitHub.com)
 * 🧠  I'm learning Springboot, Langchain, ReactJS, C, Java
