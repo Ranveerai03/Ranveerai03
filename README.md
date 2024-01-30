@@ -17,7 +17,7 @@ learning and driving technological advancements.
 
 
 * 🌍  I'm based in Vancouver, BC
-* 🖥️  See my portfolio at [My website]([(https://ranveer-rai.netlify.app/)])
+* 🖥️  See my portfolio at [My website]([https://ranveer-rai.netlify.app/])
 * ✉️  You can contact me at [ranveerrai@yahoo.com](mailto:ranveerrai@yahoo.com)
 * 🚀  I'm currently working on [NHL Fantasy Zone](http://gitHub.com)
 * 🧠  I'm learning Springboot, Langchain, ReactJS, C, Java
